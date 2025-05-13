@@ -1,6 +1,4 @@
-Following python libraries were used while creating the NCSH dashboard
-
-Streamlit
-Pandas
-Numpy
-Openpyxl
+streamlit
+pandas
+numpy
+openpyxl
